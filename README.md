@@ -36,4 +36,4 @@ Apismx se encuentra hosteado en AWS utilizando el servicio de S3.
 
 ## URL de la página HamburguerMenu
 
-https://www.apismx.com/
+http://ch0k0-hamburguermenu.s3-website-us-east-1.amazonaws.com
